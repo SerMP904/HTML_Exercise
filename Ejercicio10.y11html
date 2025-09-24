@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="width=device-width, initial-scale=1.0">
+    <title>Más ensaladilla</title>
+</head>
+<body>
+    <header>
+        <meta name="titulo">
+        <title>Como hacer una ensaladilla rusa</title>
+    </header>
+    <main>
+        <textarea name="Ingredientes" id="" cols="30" rows="10"></textarea>
+    <ul>
+        <li>Ingredientes:</li>
+        <li>mayonesa,</li>
+        <li>patata, </li>
+        <li>atún</li>
+    </ul>  
+    <ol>
+        <li>Hacer mayonesa</li>
+        <li>Pelar patatas</li>
+            <ul>
+                <li>Cuidado al cortar</li>  
+                </ul>
+        <li>Lavar patatas</li>
+        <li>Cortar patatas</li>
+        <li>Desenlatar atún</li>
+            <ul> 
+                <li>Deja el aceite en la lata</li>
+            </ul>
+        <li>Combinar todo en un bol</li>
+    </ol>  
+    </main>
+    <footer><textarea name="Rusia" id="" cols="30" rows="10"></textarea>
+
+    </footer>
+</body>
+</html>
